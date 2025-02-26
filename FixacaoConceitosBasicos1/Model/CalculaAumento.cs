@@ -7,10 +7,6 @@ using System.Threading.Tasks;
 namespace FixacaoConceitosBasicos1.Model
 {
     internal class CalculaAumento
-    {
-        public static double Calcular(double salario) 
-        {
-            return Calcular(salario,
-        }
-    }
+    
+     
 }
